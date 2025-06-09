@@ -22,15 +22,8 @@ Endpoint example:
 - CSS
 - JavaScript
 
-## 📸 Screenshot
-./CurrencyConvertor.png  
-
 ## ✨ Features
 
 - Real-time currency exchange rates
 - Select source and target currencies
 - Responsive design for better usability
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
