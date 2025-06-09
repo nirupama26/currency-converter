@@ -1,6 +1,7 @@
 # 💱 Currency Converter
 
 A simple web-based currency converter built using HTML, CSS, and JavaScript. It fetches real-time exchange rates using the Fawaz Currency API.
+🔗 Live Site: https://nirupama26.github.io/currency-converter/
 
 ## 🚀 How to Run Locally
 
